@@ -11,4 +11,4 @@ The game field is 4 x 4. Each cell can be empty or contain one of the numbers: 2
 - JavaScript
 
 # Demo
-A live demo of the React Weather App is available at [DEMO](https://kbekher.github.io/2048_js_game/).
+A live demo of the 2048 Game is available at [DEMO](https://kbekher.github.io/2048_js_game/).
