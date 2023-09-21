@@ -14,4 +14,4 @@ _____
 * JavaScript
 _____
 
-    - [DEMO LINK](https://kbekher.github.io/<repo_name>/)
+[DEMO](https://kbekher.github.io/2048_js_game/)
