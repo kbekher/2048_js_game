@@ -15,5 +15,5 @@ The game field is 4 x 4. Each cell can be empty or contain one of the numbers: 2
 A live demo of the 2048 Game is available at [DEMO](https://kbekher.github.io/2048_js_game/).
 
 # Preview
-<img align="center" alt="2048 preview" width="200px" src="https://github.com/kbekher/2048_js_game/blob/master/preview.png" />
+<img align="center" alt="2048 preview" width="600px" src="https://github.com/kbekher/2048_js_game/blob/master/preview.png" />
 
